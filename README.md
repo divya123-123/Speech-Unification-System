@@ -1,13 +1,17 @@
 # Speech-Unification-System
 
 **Introduction**
+
 A lip-reading system is developed using deep learning technology (BERT) by converting lip movements into audio. The core challenge addressed by Lip2Speech lies in accurately converting visual lip movements into coherent and natural-sounding speech. Traditional speech synthesis methods primarily focus on audio inputs, overlooking the segment of the population unable to produce vocal sounds. This limitation is particularly impactful for individuals with speech impairments or in noisy environments where audio-based communication is hindered. Existing visual-to-audio conversion technologies are often limited in accuracy and lack real-time processing capabilities. Lip2Speech aims to fill this gap by providing a precise, real-time solution for speech reconstruction from lip movements, leveraging deep learning techniques and a user- friendly Streamlet interface to ensure accessibility and ease of use. One interesting use of the cutting-edge AV-HuBERT algorithm is the translation of voice-only films.
 
 **Software requirements**
 
 Operating system: Windows 10 (any OS)
+
 Stream: Deep Learning
+
 Language: Python
+
 Tool: Google Colab
 
 **FUTURE SCOPE**
